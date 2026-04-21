@@ -22,7 +22,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋🏻‍♀️ About Me
 
 ```yaml
 Name        : Vallisrimani Gudapati
