@@ -117,14 +117,6 @@ Built REST APIs with Java & Spring Boot, React frontend, and MySQL/MongoDB backe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VALLISRIMANI&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VALLISRIMANI&theme=rose_pine&hide_border=true&layout=compact" height="160"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=VALLISRIMANI&theme=rose_pine&hide_border=true" height="150"/>
 
 </div>
