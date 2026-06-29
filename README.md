@@ -104,6 +104,7 @@ Built REST APIs with Java & Spring Boot, React frontend, and MySQL/MongoDB backe
 
 | Badge | Certification | Issuer | Year |
 |-------|--------------|--------|------|
+| 🏅 | GitHub Foundations | Microsoft | 2026 |
 | 🟢 | Tata GenAI Powered Data Analytics | Forage | 2026 |
 | ☁️ | Salesforce Certified Agentforce Specialist | Salesforce | 2025 |
 | 🏅 | MongoDB Associate Developer – Java | MongoDB | 2025 |
