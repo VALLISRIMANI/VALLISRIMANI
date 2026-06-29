@@ -20,7 +20,7 @@
 Name     : Vallisrimani Gudapati
 Degree   : B.Tech – Computer Science Engineering (2023–2027)
 College  : Sri Vasavi Engineering College, Andhra Pradesh
-CGPA     : 9.28 / 10
+CGPA     : 9.23 / 10
 Status   : Actively seeking Software Engineer Internship
 ```
 
