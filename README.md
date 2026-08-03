@@ -6,8 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vallisrimani-gudapati-ba7a872a7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manigudapati61@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VALLISRIMANI)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vallisrimani-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-AF5499?style=for-the-badge&logo=vercel&logoColor=white)](https://vallisrimani-portfolio.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vallisrimani/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/manigudaidsw/)
 [![Codolio](https://img.shields.io/badge/Codolio-4B0082?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/vallisrimani)
@@ -157,24 +156,19 @@ Built REST APIs with Java & Spring Boot, React frontend, and MySQL/MongoDB backe
 | [GitHub Foundations](https://learn.microsoft.com/en-us/users/gudapativallisrimani-5022/credentials/72c2009cdca7586d) | Microsoft | Jun 2026 |
 | [Tata GenAI Powered Data Analytics](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_69e1bddf615bf88e8847dcf8_1776500172644_completion_certificate.pdf) | Forage | Apr 2026 |
 | [Quantum Fundamentals](https://lms-cdn.qubitech.io/media/certificates/1/15cffd77/aed6a06d_845f40eb.jpg) | Wiser | Feb 2026 |
-| Salesforce Certified Agentforce Specialist | Salesforce | Dec 2025 |
-| MongoDB Associate Developer – Java | MongoDB | Jul 2025 |
+| [Salesforce Certified Agentforce Specialist](https://drive.google.com/file/d/1DhK3c5x9ROsVQCoHhQVm7UqU1o_3jGJp/view?usp=drive_link) | Salesforce | Dec 2025 |
+| [MongoDB Associate Developer – Java](https://drive.google.com/file/d/1ua-YCOkfvCJ1kYk-ef_X7URBadfKZMGt/view?usp=drive_link) | MongoDB | Jul 2025 |
 | [Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/GUDAPATIVALLISRIMANI-5022/AD94E1120EA64833?sharingId=D81D5D6150C1A2CF) | Microsoft | Jul 2025 |
-| DSA Mastery with Java | ExcelR | Jun 2025 |
-| Privacy and Security in Online Social Media | NPTEL | Jan–Apr 2025 |
-| Introduction to IoT | NPTEL | Jan–Apr 2025 |
-| Entrepreneurship | NPTEL | Jul–Oct 2025 |
+| [DSA Mastery with Java](https://drive.google.com/file/d/1Q4-gRJ0WBPR5ww81Rw30-UE9AAwBcCAm/view?usp=drive_link) | ExcelR | Jun 2025 |
+| [Privacy and Security in Online Social Media](https://drive.google.com/file/d/1ldLWcbSCCmay_U-LjvRsMxbxyPgDeb_U/view?usp=drive_link) | NPTEL | Jan – Apr 2025 |
+| [Introduction to IoT](https://drive.google.com/file/d/1lao0cYxVyVae4SN0lmWOsNxCj_iZqlMt/view?usp=drive_link) | NPTEL | Jan – Apr 2025 |
+| [Entrepreneurship](https://drive.google.com/file/d/1Ja8XDRj75kSw3wVE-9mOJMHTe3mf1S_o/view?usp=drive_link) | NPTEL | Jul – Oct 2025 |
 
 ---
 
 ## 📊 GitHub Performance
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VALLISRIMANI&show_icons=true&hide_border=true&bg_color=00000000&title_color=3fc1d9&icon_color=3fc1d9&text_color=cdf3f7&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VALLISRIMANI&layout=compact&hide_border=true&bg_color=00000000&title_color=3fc1d9&text_color=cdf3f7&langs_count=8" height="165"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=VALLISRIMANI&hide_border=true&background=00000000&ring=3fc1d9&fire=3fc1d9&currStreakLabel=cdf3f7&sideNums=cdf3f7&sideLabels=cdf3f7&dates=1c8ba8&currStreakNum=eafcfd&stroke=0f6b8c" height="150"/>
 
