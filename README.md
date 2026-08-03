@@ -4,13 +4,13 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231c8ba8.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vallisrimani-gudapati-ba7a872a7/)
-[![Gmail](https://img.shields.io/badge/Gmail-%230f6b8c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manigudapati61@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%2303161a.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VALLISRIMANI)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%233fc1d9?style=for-the-badge&logo=vercel&logoColor=white)](https://vallisrimani-portfolio.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%231c8ba8?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vallisrimani/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-%230f6b8c?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/manigudaidsw/)
-[![Codolio](https://img.shields.io/badge/Codolio-%2303161a?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/vallisrimani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vallisrimani-gudapati-ba7a872a7/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manigudapati61@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VALLISRIMANI)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vallisrimani-portfolio.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vallisrimani/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/manigudaidsw/)
+[![Codolio](https://img.shields.io/badge/Codolio-4B0082?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/vallisrimani)
 
 </div>
 
