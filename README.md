@@ -150,7 +150,7 @@ Built REST APIs with Java & Spring Boot, React frontend, and MySQL/MongoDB backe
 
 | Certification | Issuer | Date |
 |---|---|---|
-| [ServiceNow Certified Application Developer (CAD)](https://drive.google.com/file/d/1slfrzK0kHDpLaEVSypdBia4F__zTrUjP/view?usp=drive_link) | ServiceNow | Jul 2026 |
+| [ServiceNow Certified Application Developer (CAD)](https://drive.google.com/file/d/1slfrzK0kHDpLaEVSypdBia4F__zTrUjP/view?usp=drive_link) | ServiceNow | Aug 2026 |
 | [SAP Certified – Back-End Developer, ABAP Cloud](https://drive.google.com/file/d/1zV7hF8D2lkDt76i_R3sA8k3zDufRgwz9/view?usp=drive_link) | SAP | Jul 2026 |
 | [ServiceNow Certified System Administrator (CSA)](https://drive.google.com/file/d/1iAvYW1Or4nRNlgbDlZ2gWJXmwFlUi5Ml/view?usp=drive_link) | ServiceNow | Jul 2026 |
 | [GitHub Foundations](https://learn.microsoft.com/en-us/users/gudapativallisrimani-5022/credentials/72c2009cdca7586d) | Microsoft | Jun 2026 |
